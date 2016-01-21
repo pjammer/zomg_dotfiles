@@ -1,4 +1,4 @@
 zomg_dotfiles
 =============
 
-my effing dot files.
+This is a story about my effing dot files.
